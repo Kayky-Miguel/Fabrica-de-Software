@@ -1,0 +1,6 @@
+n1 = int(input("Digite um número: "))
+n2 = int(input("Digite outro número: "))
+print(f"A multipicação entre {n1} e {n2} vale {n1*n2}")
+num1 = float(input("Digite um número flutuante: "))
+num2 = float(input("Digite outro número flutuante: "))
+print(f"A soma entre {num1} e {num2} vale {num1+num2}")
